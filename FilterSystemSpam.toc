@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: FilterSystemSpam
+## Notes: Filter system spam messages
+## Author: Palkess
+## Version: 1.0.0
+
+FilterSystemMessages.lua
